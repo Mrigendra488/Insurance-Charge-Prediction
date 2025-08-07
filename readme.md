@@ -31,7 +31,7 @@ Health insurance companies often charge premiums based on customer profiles. Our
 ## 🧠 Results
 
 - **Train R²**: 0.74
-- **Test R²**: 0.80
+- **Test R²**: 0.806
 - **Adjusted R²**: 0.801
 
 These scores indicate a well-generalized model with minimal overfitting.
